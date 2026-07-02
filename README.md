@@ -1,7 +1,12 @@
 # flutter_project
 
 A new Flutter project.
+Command to run Project
 
+1) flutter devices
+2) flutter clean
+3) flutter pub get
+4) flutter run -d windows
 ## Getting Started
 
 This project is a starting point for a Flutter application.
